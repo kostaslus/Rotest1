@@ -1,373 +1,254 @@
 #EXTM3U
-#EXTINF:-1,6 TV
-http://188.27.9.55:9981/stream/channelid/270299477.m3u8
-#EXTINF:-1,Agro TV
-http://188.27.9.55:9981/stream/channelid/785234271.m3u8
-#EXTINF:-1,Alfa Omega
-http://188.27.9.55:9981/stream/channelid/298756577.m3u8
-#EXTINF:-1,AMC
-http://188.27.9.55:9981/stream/channelid/448361459.m3u8
-#EXTINF:-1,AMC HD
-http://188.27.9.55:9981/stream/channelid/514584255.m3u8
-#EXTINF:-1,Antena 1
-http://188.27.9.55:9981/stream/channelid/749480483.m3u8
-#EXTINF:-1,Antena 1 HD
-http://188.27.9.55:9981/stream/channelid/40019151.m3u8
-#EXTINF:-1,Antena 3
-http://188.27.9.55:9981/stream/channelid/1837005692.m3u8
-#EXTINF:-1,Antena 3 HD
-http://188.27.9.55:9981/stream/channelid/593185167.m3u8
-#EXTINF:-1,Antena Stars
-http://188.27.9.55:9981/stream/channelid/1723969829.m3u8
-#EXTINF:-1,Antena Stars HD
-http://188.27.9.55:9981/stream/channelid/511904656.m3u8
-#EXTINF:-1,AXN
-http://188.27.9.55:9981/stream/channelid/1648942616.m3u8
-#EXTINF:-1,AXN Black
-http://188.27.9.55:9981/stream/channelid/1619461883.m3u8
-#EXTINF:-1,AXN HD
-http://188.27.9.55:9981/stream/channelid/1948403686.m3u8
-#EXTINF:-1,AXN Spin
-http://188.27.9.55:9981/stream/channelid/1468821418.m3u8
-#EXTINF:-1,AXN White
-http://188.27.9.55:9981/stream/channelid/1096837256.m3u8
-#EXTINF:-1,B1
-http://188.27.9.55:9981/stream/channelid/2137814309.m3u8
-#EXTINF:-1,BBC Earth
-http://188.27.9.55:9981/stream/channelid/1455824773.m3u8
-#EXTINF:-1,BBC Earth HD
-http://188.27.9.55:9981/stream/channelid/77201771.m3u8
-#EXTINF:-1,BBC World News
-http://188.27.9.55:9981/stream/channelid/1186074734.m3u8
-#EXTINF:-1,Bollywood HD
-http://188.27.9.55:9981/stream/channelid/1931212561.m3u8
-#EXTINF:-1,Bollywood TV
-http://188.27.9.55:9981/stream/channelid/841886673.m3u8
-#EXTINF:-1,Boomerang
-http://188.27.9.55:9981/stream/channelid/1532112186.m3u8
-#EXTINF:-1,Bucuresti TV
-http://188.27.9.55:9981/stream/channelid/1827615085.m3u8
-#EXTINF:-1,Canal 33
-http://188.27.9.55:9981/stream/channelid/1526344367.m3u8
-#EXTINF:-1,Cartoon Network
-http://188.27.9.55:9981/stream/channelid/282327187.m3u8
-#EXTINF:-1,CBS Reality
-http://188.27.9.55:9981/stream/channelid/2008623577.m3u8
-#EXTINF:-1,CGTN
-http://188.27.9.55:9981/stream/channelid/1633939209.m3u8
-#EXTINF:-1,Chill FM
-http://188.27.9.55:9981/stream/channelid/646339066.m3u8
-#EXTINF:-1,Cinemaraton
-http://188.27.9.55:9981/stream/channelid/488633195.m3u8
-#EXTINF:-1,Cinemaraton HD
-http://188.27.9.55:9981/stream/channelid/2146852449.m3u8
-#EXTINF:-1,Cinemax
-http://188.27.9.55:9981/stream/channelid/1283796556.m3u8
-#EXTINF:-1,Cinemax 2
-http://188.27.9.55:9981/stream/channelid/1662601784.m3u8
-#EXTINF:-1,Cinemax HD
-http://188.27.9.55:9981/stream/channelid/1474026874.m3u8
-#EXTINF:-1,Cinemax2 HD
-http://188.27.9.55:9981/stream/channelid/580003482.m3u8
-#EXTINF:-1,CINETHRONIX
-http://188.27.9.55:9981/stream/channelid/197325801.m3u8
-#EXTINF:-1,CNN
-http://188.27.9.55:9981/stream/channelid/693299042.m3u8
-#EXTINF:-1,Comedy Central
-http://188.27.9.55:9981/stream/channelid/526711195.m3u8
-#EXTINF:-1,ComedyEst
-http://188.27.9.55:9981/stream/channelid/287027786.m3u8
-#EXTINF:-1,Credo TV
-http://188.27.9.55:9981/stream/channelid/1541027861.m3u8
-#EXTINF:-1,Dance FM
-http://188.27.9.55:9981/stream/channelid/1787391089.m3u8
-#EXTINF:-1,DaVinci
-http://188.27.9.55:9981/stream/channelid/1767801375.m3u8
-#EXTINF:-1,DIGI 24
-http://188.27.9.55:9981/stream/channelid/169887177.m3u8
-#EXTINF:-1,DIGI 24 HD
-http://188.27.9.55:9981/stream/channelid/895710166.m3u8
-#EXTINF:-1,DIGI 4K
-http://188.27.9.55:9981/stream/channelid/1949018997.m3u8
-#EXTINF:-1,DIGI ANIMAL WORLD
-http://188.27.9.55:9981/stream/channelid/1127760944.m3u8
-#EXTINF:-1,DIGI ANIMAL WORLD HD
-http://188.27.9.55:9981/stream/channelid/256009003.m3u8
-#EXTINF:-1,Digi FM
-http://188.27.9.55:9981/stream/channelid/410190016.m3u8
-#EXTINF:-1,DIGI Life
-http://188.27.9.55:9981/stream/channelid/1760489019.m3u8
-#EXTINF:-1,DIGI Life HD
-http://188.27.9.55:9981/stream/channelid/1586823090.m3u8
-#EXTINF:-1,DIGI Sport 1
-http://188.27.9.55:9981/stream/channelid/297933289.m3u8
-#EXTINF:-1,DIGI Sport 1 HD
-http://188.27.9.55:9981/stream/channelid/1596709012.m3u8
-#EXTINF:-1,DIGI Sport 2
-http://188.27.9.55:9981/stream/channelid/1149868257.m3u8
-#EXTINF:-1,DIGI Sport 2 HD
-http://188.27.9.55:9981/stream/channelid/389845383.m3u8
-#EXTINF:-1,DIGI Sport 3
-http://188.27.9.55:9981/stream/channelid/1948550929.m3u8
-#EXTINF:-1,DIGI Sport 3 HD
-http://188.27.9.55:9981/stream/channelid/1191114645.m3u8
-#EXTINF:-1,DIGI Sport 4
-http://188.27.9.55:9981/stream/channelid/1815684038.m3u8
-#EXTINF:-1,DIGI Sport 4 HD
-http://188.27.9.55:9981/stream/channelid/1680422677.m3u8
-#EXTINF:-1,DIGI WORLD
-http://188.27.9.55:9981/stream/channelid/781056236.m3u8
-#EXTINF:-1,DIGI WORLD HD
-http://188.27.9.55:9981/stream/channelid/392380230.m3u8
-#EXTINF:-1,Discovery HD
-http://188.27.9.55:9981/stream/channelid/1932962661.m3u8
-#EXTINF:-1,Discovery Ro
-http://188.27.9.55:9981/stream/channelid/434256200.m3u8
-#EXTINF:-1,Disney Channel
-http://188.27.9.55:9981/stream/channelid/1329084376.m3u8
-#EXTINF:-1,Disney Junior
-http://188.27.9.55:9981/stream/channelid/1289225518.m3u8
-#EXTINF:-1,Diva
-http://188.27.9.55:9981/stream/channelid/1058709822.m3u8
-#EXTINF:-1,Duck TV
-http://188.27.9.55:9981/stream/channelid/59602624.m3u8
-#EXTINF:-1,Duna
-http://188.27.9.55:9981/stream/channelid/1403963935.m3u8
-#EXTINF:-1,DW Deutsch
-http://188.27.9.55:9981/stream/channelid/31974176.m3u8
-#EXTINF:-1,E! Entertainment
-http://188.27.9.55:9981/stream/channelid/302516526.m3u8
-#EXTINF:-1,E! Entertainment HD
-http://188.27.9.55:9981/stream/channelid/2085057472.m3u8
-#EXTINF:-1,Epic Drama
-http://188.27.9.55:9981/stream/channelid/239310338.m3u8
-#EXTINF:-1,Etno
-http://188.27.9.55:9981/stream/channelid/496508272.m3u8
-#EXTINF:-1,Europa FM
-http://188.27.9.55:9981/stream/channelid/696206879.m3u8
-#EXTINF:-1,Eurosport
-http://188.27.9.55:9981/stream/channelid/1683823569.m3u8
-#EXTINF:-1,Eurosport 2
-http://188.27.9.55:9981/stream/channelid/1251851481.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://188.27.9.55:9981/stream/channelid/1760359889.m3u8
-#EXTINF:-1,Eurosport 4K
-http://188.27.9.55:9981/stream/channelid/778858014.m3u8
-#EXTINF:-1,Eurosport HD
-http://188.27.9.55:9981/stream/channelid/812490795.m3u8
-#EXTINF:-1,Fashion TV
-http://188.27.9.55:9981/stream/channelid/1518524895.m3u8
-#EXTINF:-1,Favorit TV
-http://188.27.9.55:9981/stream/channelid/302796581.m3u8
-#EXTINF:-1,Film Cafe
-http://188.27.9.55:9981/stream/channelid/807531532.m3u8
-#EXTINF:-1,Film Now
-http://188.27.9.55:9981/stream/channelid/1574116025.m3u8
-#EXTINF:-1,Film Now HD
-http://188.27.9.55:9981/stream/channelid/554635081.m3u8
-#EXTINF:-1,Fishing and Hunting
-http://188.27.9.55:9981/stream/channelid/1840906808.m3u8
-#EXTINF:-1,Happy Channel
-http://188.27.9.55:9981/stream/channelid/522187210.m3u8
-#EXTINF:-1,Happy Channel HD
-http://188.27.9.55:9981/stream/channelid/2132246357.m3u8
-#EXTINF:-1,HBO 2
-http://188.27.9.55:9981/stream/channelid/1943191504.m3u8
-#EXTINF:-1,HBO 3
-http://188.27.9.55:9981/stream/channelid/1339011689.m3u8
-#EXTINF:-1,HBO HD
-http://188.27.9.55:9981/stream/channelid/1670963131.m3u8
-#EXTINF:-1,HBO Romania
-http://188.27.9.55:9981/stream/channelid/844600859.m3u8
-#EXTINF:-1,HBO2 HD
-http://188.27.9.55:9981/stream/channelid/1974877466.m3u8
-#EXTINF:-1,HBO3 HD
-http://188.27.9.55:9981/stream/channelid/174111756.m3u8
-#EXTINF:-1,HGTV
-http://188.27.9.55:9981/stream/channelid/1499190972.m3u8
-#EXTINF:-1,HGTV HD
-http://188.27.9.55:9981/stream/channelid/1168779558.m3u8
-#EXTINF:-1,History Channel
-http://188.27.9.55:9981/stream/channelid/682064952.m3u8
-#EXTINF:-1,History HD
-http://188.27.9.55:9981/stream/channelid/1431566174.m3u8
-#EXTINF:-1,HIT MUSIC
-http://188.27.9.55:9981/stream/channelid/292578847.m3u8
-#EXTINF:-1,Hora TV
-http://188.27.9.55:9981/stream/channelid/243717401.m3u8
-#EXTINF:-1,Inedit TV
-http://188.27.9.55:9981/stream/channelid/991310820.m3u8
-#EXTINF:-1,JimJam
-http://188.27.9.55:9981/stream/channelid/2017024486.m3u8
-#EXTINF:-1,Kanal D
-http://188.27.9.55:9981/stream/channelid/331137712.m3u8
-#EXTINF:-1,Kanal D HD
-http://188.27.9.55:9981/stream/channelid/1856626691.m3u8
-#EXTINF:-1,Kapital TV
-http://188.27.9.55:9981/stream/channelid/2095142069.m3u8
-#EXTINF:-1,Kiss FM
-http://188.27.9.55:9981/stream/channelid/1144067485.m3u8
-#EXTINF:-1,KISS TV
-http://188.27.9.55:9981/stream/channelid/1941435830.m3u8
-#EXTINF:-1,LookPlus
-http://188.27.9.55:9981/stream/channelid/1403937632.m3u8
-#EXTINF:-1,LookSport
-http://188.27.9.55:9981/stream/channelid/1276863764.m3u8
-#EXTINF:-1,M2 Europe
-http://188.27.9.55:9981/stream/channelid/486190336.m3u8
-#EXTINF:-1,MAGIC TV
-http://188.27.9.55:9981/stream/channelid/1024853117.m3u8
-#EXTINF:-1,Magyar ATV
-http://188.27.9.55:9981/stream/channelid/102105782.m3u8
-#EXTINF:-1,MEDIKA TV
-http://188.27.9.55:9981/stream/channelid/1534412440.m3u8
-#EXTINF:-1,MEZZO
-http://188.27.9.55:9981/stream/channelid/1054658140.m3u8
-#EXTINF:-1,Minimax
-http://188.27.9.55:9981/stream/channelid/1559644255.m3u8
-#EXTINF:-1,MTV Europe
-http://188.27.9.55:9981/stream/channelid/405372437.m3u8
-#EXTINF:-1,Music Channel Ro
-http://188.27.9.55:9981/stream/channelid/1319824867.m3u8
-#EXTINF:-1,Nasul TV
-http://188.27.9.55:9981/stream/channelid/1755192427.m3u8
-#EXTINF:-1,Nat Geo
-http://188.27.9.55:9981/stream/channelid/827393242.m3u8
-#EXTINF:-1,Nat Geo HD
-http://188.27.9.55:9981/stream/channelid/1998852271.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://188.27.9.55:9981/stream/channelid/436921817.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://188.27.9.55:9981/stream/channelid/1978247227.m3u8
-#EXTINF:-1,National 24 Plus
-http://188.27.9.55:9981/stream/channelid/1484868643.m3u8
-#EXTINF:-1,National TV
-http://188.27.9.55:9981/stream/channelid/1763404609.m3u8
-#EXTINF:-1,NCN
-http://188.27.9.55:9981/stream/channelid/1851430064.m3u8
-#EXTINF:-1,Nick Jr
-http://188.27.9.55:9981/stream/channelid/286290395.m3u8
-#EXTINF:-1,Nickelodeon
-http://188.27.9.55:9981/stream/channelid/308872711.m3u8
-#EXTINF:-1,Nicktoons
-http://188.27.9.55:9981/stream/channelid/258345505.m3u8
-#EXTINF:-1,Orizont TV
-http://188.27.9.55:9981/stream/channelid/378474330.m3u8
-#EXTINF:-1,Paramount Channel
-http://188.27.9.55:9981/stream/channelid/475364709.m3u8
-#EXTINF:-1,PRIMA TV
-http://188.27.9.55:9981/stream/channelid/1123823679.m3u8
-#EXTINF:-1,PRO 2
-http://188.27.9.55:9981/stream/channelid/1536165074.m3u8
-#EXTINF:-1,PRO 2 HD
-http://188.27.9.55:9981/stream/channelid/1438789909.m3u8
-#EXTINF:-1,PRO CINEMA
-http://188.27.9.55:9981/stream/channelid/529870643.m3u8
-#EXTINF:-1,Pro FM
-http://188.27.9.55:9981/stream/channelid/1831795718.m3u8
-#EXTINF:-1,PRO GOLD
-http://188.27.9.55:9981/stream/channelid/1724370471.m3u8
-#EXTINF:-1,PRO TV
-http://188.27.9.55:9981/stream/channelid/1920402295.m3u8
-#EXTINF:-1,PRO TV HD
-http://188.27.9.55:9981/stream/channelid/401768863.m3u8
-#EXTINF:-1,PRO X
-http://188.27.9.55:9981/stream/channelid/1714111560.m3u8
-#EXTINF:-1,PRO X HD
-http://188.27.9.55:9981/stream/channelid/1632742679.m3u8
-#EXTINF:-1,Profit Tv
-http://188.27.9.55:9981/stream/channelid/1069428227.m3u8
-#EXTINF:-1,Radio Guerilla
-http://188.27.9.55:9981/stream/channelid/1650844828.m3u8
-#EXTINF:-1,Radio Impuls
-http://188.27.9.55:9981/stream/channelid/469515600.m3u8
-#EXTINF:-1,Radio Maria Ro
-http://188.27.9.55:9981/stream/channelid/1224195335.m3u8
-#EXTINF:-1,Radio Romania Actualitati
-http://188.27.9.55:9981/stream/channelid/1463648650.m3u8
-#EXTINF:-1,Radio Sport Total
-http://188.27.9.55:9981/stream/channelid/844069229.m3u8
-#EXTINF:-1,Radio ZU
-http://188.27.9.55:9981/stream/channelid/878365971.m3u8
-#EXTINF:-1,Rai 1
-http://188.27.9.55:9981/stream/channelid/541038780.m3u8
-#EXTINF:-1,Rai 3
-http://188.27.9.55:9981/stream/channelid/16489108.m3u8
-#EXTINF:-1,Realitatea Plus
-http://188.27.9.55:9981/stream/channelid/185254329.m3u8
-#EXTINF:-1,ROCK TV
-http://188.27.9.55:9981/stream/channelid/251284103.m3u8
-#EXTINF:-1,RomaniaTV
-http://188.27.9.55:9981/stream/channelid/1188259249.m3u8
-#EXTINF:-1,RTL Television
-http://188.27.9.55:9981/stream/channelid/661682169.m3u8
-#EXTINF:-1,Smart Radio
-http://188.27.9.55:9981/stream/channelid/3093309.m3u8
-#EXTINF:-1,SperantaTV
-http://188.27.9.55:9981/stream/channelid/1010960112.m3u8
-#EXTINF:-1,SUPER RTL
-http://188.27.9.55:9981/stream/channelid/220345429.m3u8
-#EXTINF:-1,SuperOne
-http://188.27.9.55:9981/stream/channelid/1544496016.m3u8
-#EXTINF:-1,SuperONE HD
-http://188.27.9.55:9981/stream/channelid/1815672081.m3u8
-#EXTINF:-1,Taraf TV
-http://188.27.9.55:9981/stream/channelid/655671437.m3u8
-#EXTINF:-1,Telestar1
-http://188.27.9.55:9981/stream/channelid/593926558.m3u8
-#EXTINF:-1,TLC
-http://188.27.9.55:9981/stream/channelid/497643145.m3u8
-#EXTINF:-1,TNT
-http://188.27.9.55:9981/stream/channelid/1917606294.m3u8
-#EXTINF:-1,Travel
-http://188.27.9.55:9981/stream/channelid/1033888890.m3u8
-#EXTINF:-1,Travel Channel HD
-http://188.27.9.55:9981/stream/channelid/777444010.m3u8
-#EXTINF:-1,Travel Mix
-http://188.27.9.55:9981/stream/channelid/1025939241.m3u8
-#EXTINF:-1,Trinitas
-http://188.27.9.55:9981/stream/channelid/701563910.m3u8
-#EXTINF:-1,TV CITY
-http://188.27.9.55:9981/stream/channelid/980398160.m3u8
-#EXTINF:-1,TV Paprika
-http://188.27.9.55:9981/stream/channelid/2110658294.m3u8
-#EXTINF:-1,TV1000
-http://188.27.9.55:9981/stream/channelid/1234156527.m3u8
-#EXTINF:-1,TV5 MONDE
-http://188.27.9.55:9981/stream/channelid/125885864.m3u8
-#EXTINF:-1,TVR 1
-http://188.27.9.55:9981/stream/channelid/336804503.m3u8
-#EXTINF:-1,TVR 2
-http://188.27.9.55:9981/stream/channelid/1209456515.m3u8
-#EXTINF:-1,TVR 3
-http://188.27.9.55:9981/stream/channelid/689075425.m3u8
-#EXTINF:-1,TVR1 HD
-http://188.27.9.55:9981/stream/channelid/1769229045.m3u8
-#EXTINF:-1,TVR2 HD
-http://188.27.9.55:9981/stream/channelid/1626190444.m3u8
-#EXTINF:-1,TVSudEst
-http://188.27.9.55:9981/stream/channelid/1494668295.m3u8
-#EXTINF:-1,UTV
-http://188.27.9.55:9981/stream/channelid/1916858591.m3u8
-#EXTINF:-1,UTV HD
-http://188.27.9.55:9981/stream/channelid/1148234482.m3u8
-#EXTINF:-1,VH1
-http://188.27.9.55:9981/stream/channelid/1609548755.m3u8
-#EXTINF:-1,Viasat Explore
-http://188.27.9.55:9981/stream/channelid/1014226925.m3u8
-#EXTINF:-1,Viasat Explore HD
-http://188.27.9.55:9981/stream/channelid/139162219.m3u8
-#EXTINF:-1,Viasat History
-http://188.27.9.55:9981/stream/channelid/777145586.m3u8
-#EXTINF:-1,Viasat History HD
-http://188.27.9.55:9981/stream/channelid/1271227989.m3u8
-#EXTINF:-1,Viasat Nature
-http://188.27.9.55:9981/stream/channelid/1098936132.m3u8
-#EXTINF:-1,Viasat Nature HD
-http://188.27.9.55:9981/stream/channelid/1318380.m3u8
-#EXTINF:-1,Virgin Radio
-http://188.27.9.55:9981/stream/channelid/1744655918.m3u8
-#EXTINF:-1,ZU TV
-http://188.27.9.55:9981/stream/channelid/1057827591.m3u8
-#EXTINF:-1,ZU TV HD
-http://188.27.9.55:9981/stream/channelid/1626998500.m3u8
+#EXTINF:0,*Coronavirus Pandemic*
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/coronavirus.us.m3u8
+#EXTINF:0,TVR 1
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tvr.1.ro.m3u8
+#EXTINF:0,TVR 2
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tvr.2.ro.m3u8
+#EXTINF:0,Pro TV
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/pro.tv.ro.m3u8
+#EXTINF:0,Antena 1
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/antena.1.ro.m3u8
+#EXTINF:0,Kanal D
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/kanal.d.ro.m3u8
+#EXTINF:0,Prima TV
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/prima.tv.ro.m3u8
+#EXTINF:0,Trinitas
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/trinitas.tv.ro.m3u8
+#EXTINF:0,B1 TV
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/b1.tv.ro.m3u8
+#EXTINF:0,Antena 3
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/antena.3.ro.m3u8
+#EXTINF:0,Realitatea TV
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/realitatea.tv.ro.m3u8
+#EXTINF:0,Romania TV
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/romania.tv.ro.m3u8
+#EXTINF:0,DIGI 24 
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/digi.24.ro.m3u8
+#EXTINF:0,National TV
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/national.tv.ro.m3u8
+#EXTINF:0,National 24 Plus
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/national.24.plus.ro.m3u8
+#EXTINF:0,TVR 3
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tvr.3.ro.m3u8
+#EXTINF:0,HBO
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/hbo.ro.m3u8
+#EXTINF:0,HBO 2
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/hbo.2.ro.m3u8
+#EXTINF:0,HBO 3
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/hbo.3.ro.m3u8
+#EXTINF:0,Cinemax
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/cinemax.ro.m3u8
+#EXTINF:0,Comedy Central
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/comedy.central.ro.m3u8
+#EXTINF:0,Pro Cinema
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/pro.cinema.ro.m3u8
+#EXTINF:0,Pro X
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/pro.x.ro.m3u8
+#EXTINF:0,Film Cafe
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/film.cafe.ro.m3u8
+#EXTINF:0,Film Now
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/film.now.ro.m3u8
+#EXTINF:0,FilmBox
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/filmbox.ro.m3u8
+#EXTINF:0,FilmBox Extra
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/filmbox.extra.ro.m3u8
+#EXTINF:0,FilmBox Family
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/filmbox.family.ro.m3u8
+#EXTINF:0,FilmBox Plus
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/filmbox.plus.ro.m3u8
+#EXTINF:0,FilmBox Premium
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/filmbox.premium.ro.m3u8
+#EXTINF:0,TV1000
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tv1000.ro.m3u8
+#EXTINF:0,Happy Channel
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/happy.channel.ro.m3u8
+#EXTINF:0,TLC
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tlc.ro.m3u8
+#EXTINF:0,TNT
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tnt.ro.m3u8
+#EXTINF:0,AXN
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/axn.ro.m3u8
+#EXTINF:0,AXN Black
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/axn.black.ro.m3u8
+#EXTINF:0,AXN SPIN
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/axn.spin.ro.m3u8
+#EXTINF:0,AXN White
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/axn.white.ro.m3u8
+#EXTINF:0,Disney Channel
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/disney.channel.ro.m3u8
+#EXTINF:0,Disney Jr
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/disney.junior.ro.m3u8
+#EXTINF:0,Boomerang
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/boomerang.ro.m3u8
+#EXTINF:0,Cartoon Network
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/cartoon.network.ro.m3u8
+#EXTINF:0,Nick Jr
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/nick.jr.ro.m3u8
+#EXTINF:0,Look Plus
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/look.plus.ro.m3u8
+#EXTINF:0,Look Sport
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/look.sport.ro.m3u8
+#EXTINF:0,Eurosport 1
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/eurosport.1.ro.m3u8
+#EXTINF:0,Eurosport 2
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/eurosport.2.ro.m3u8
+#EXTINF:0,Extreme Sport
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/extreme.sports.channel.ro.m3u8
+#EXTINF:0,DIGI Sport 1 
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/digi.sport.1.ro.m3u8
+#EXTINF:0,DIGI Sport 2
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/digi.sport.2.ro.m3u8
+#EXTINF:0,DIGI Sport 3
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/digi.sport.3.ro.m3u8
+#EXTINF:0,DIGI Sport 4
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/digi.sport.4.ro.m3u8
+#EXTINF:0,DIGI WORLD
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/digi.world.ro.m3u8
+#EXTINF:0,DIGI Life
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/digi.life.ro.m3u8
+#EXTINF:0,Discovery Channel
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/discovery.channel.ro.m3u8
+#EXTINF:0,Discovery ID
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/id.investigation.discovery.ro.m3u8
+#EXTINF:0,Discovery Showcase
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/discovery.showcase.ro.m3u8
+#EXTINF:0,Animal Planet
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/animal.planet.ro.m3u8
+#EXTINF:0,DIGI ANIMAL WORLD
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/digi.animal.world.ro.m3u8
+#EXTINF:0,History
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/history.ro.m3u8
+#EXTINF:0,Diva
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/diva.ro.m3u8
+#EXTINF:0,E! Entertainment
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/e.entertainment.ro.m3u8
+#EXTINF:0,Epic Drama
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/epic.drama.ro.m3u8
+#EXTINF:0,Fashion TV
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/fashion.tv.ro.m3u8
+#EXTINF:0,Fine Living
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/fine.living.ro.m3u8
+#EXTINF:0,CBS Reality
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/cbs.reality.ro.m3u8
+#EXTINF:0,Da Vinci Learning
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/davinci.learning.ro.m3u8
+#EXTINF:0,Nat Geo Wild 
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/nat.geo.wild.ro.m3u8
+#EXTINF:0,National Geographic
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/national.geographic.ro.m3u8
+#EXTINF:0,Nickelodeon
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/nickelodeon.ro.m3u8
+#EXTINF:0,Paramount Channel
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/paramount.channel.ro.m3u8
+#EXTINF:0,Travel Channel
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/travel.channel.ro.m3u8
+#EXTINF:0,TV Paprika
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tv.paprika.ro.m3u8
+#EXTINF:0,Zu TV
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/zu.tv.ro.m3u8
+#EXTINF:0,H!T Music Channel
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/hit.music.channel.ro.m3u8
+#EXTINF:0,UTV
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/utv.ro.m3u8
+#EXTINF:0,MTV Dance
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/mtv.dance.ro.m3u8
+#EXTINF:0,Music Channel
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/music.channel.ro.m3u8
+#EXTINF:0,Viasat Explore
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/viasat.explorer.ro.m3u8
+#EXTINF:0,Viasat History
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/viasat.history.ro.m3u8
+#EXTINF:0,Viasat Nature
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/viasat.nature.ro.m3u8
+
+#EXTM3U
+#EXTINF:0,Test
+#EXTINF:0,6 TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Actualitatea TV
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF:0,Acum TV
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Alfa Omega TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Alpha Media TV
+http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:0,Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0,Bit TV
+http://46.214.146.46:81/tv2/playlist.m3u8
+#EXTINF:0,BO CLASIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,BO TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:0,Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:0,Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8
+#EXTINF:0,Erdely TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8
+#EXTINF:0,Inedit
+http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Info HD
+http://163.172.172.80:8080/hls/InfoHd.m3u8
+#EXTINF:0,Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:0,Kaptial TV
+http://163.172.172.80:8080/hls/livestream.m3u8
+#EXTINF:0,MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,NEst TV
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:0,Pro TV News
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
+#EXTINF:0,Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:0,Publika TV
+http://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:0,Realitatea Plus TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:0,Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFE5PUx.png" group-title="RUMÄNIEN",Sangeorz TV
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:0,Speranta TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Tele M
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:0,Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+#EXTINF:0,TV CITY
+http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+#EXTINF:0,TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+#EXTINF:0,TVR Iasi
+http://82.208.151.107:8088/high/tvriasi/index.m3u8
+#EXTINF:0,TVR Moldova
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:0,TVR 1 HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:0,TVR Timisoara
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="RUMÄNIEN",Stars
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:-1,RO: CINEMAX 2
+http://104.218.60.145:83/Elonge/4049153347@/378288.m3u8
+#EXTINF:-1,RO: DIGI 24 CRAIOVA
+http://104.218.60.145:83/Elonge/4049153347@/378286.m3u8
+#EXTINF:-1,RO: FISHING & HUNTING
+http://104.218.60.145:83/Elonge/4049153347@/378272.m3u8
