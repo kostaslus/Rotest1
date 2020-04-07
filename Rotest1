@@ -2,15 +2,15 @@
 #EXTINF:0,*Coronavirus Pandemic*
 https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/coronavirus.us.m3u8
 #EXTINF:0,TVR 1
-https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tvr.1.ro.m3u8
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/TVR.1.ro.m3u8
 #EXTINF:0,TVR 2
-https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tvr.2.ro.m3u8
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/TVR.2.ro.m3u8
 #EXTINF:0,Pro TV
-https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/pro.tv.ro.m3u8
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/PRO.TV.ro.m3u8
 #EXTINF:0,Antena 1
-https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/antena.1.ro.m3u8
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/ANTENA.1.ro.m3u8
 #EXTINF:0,Kanal D
-https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/kanal.d.ro.m3u8
+https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/KANAL.D.ro.m3u8
 #EXTINF:0,Prima TV
 https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/prima.tv.ro.m3u8
 #EXTINF:0,Trinitas
@@ -31,7 +31,7 @@ https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/national.tv.ro
 https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/national.24.plus.ro.m3u8
 #EXTINF:0,TVR 3
 https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/tvr.3.ro.m3u8
-#EXTINF:0,HBO
+#EXTINF:0,HBO+
 https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/hbo.ro.m3u8
 #EXTINF:0,HBO 2
 https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/hbo.2.ro.m3u8
@@ -161,94 +161,3 @@ https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/viasat.explore
 https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/viasat.history.ro.m3u8
 #EXTINF:0,Viasat Nature
 https://tv4.live/api/stream/kostaslus@gmail.com/743728/livetv.epg/viasat.nature.ro.m3u8
-
-#EXTM3U
-#EXTINF:0,Test
-#EXTINF:0,6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Actualitatea TV
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:0,Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0,Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0,Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:0,BO CLASIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:0,Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:0,Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-#EXTINF:0,Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8
-#EXTINF:0,Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Info HD
-http://163.172.172.80:8080/hls/InfoHd.m3u8
-#EXTINF:0,Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:0,Kaptial TV
-http://163.172.172.80:8080/hls/livestream.m3u8
-#EXTINF:0,MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-#EXTINF:0,Pro TV News
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
-#EXTINF:0,Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:0,Publika TV
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0,Realitatea Plus TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:0,Somax TV
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFE5PUx.png" group-title="RUMÄNIEN",Sangeorz TV
-http://s2.streamnet.ro:8035/stream.flv
-#EXTINF:0,Speranta TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Tele M
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:0,Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF:0,TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,TVR Cluj
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
-#EXTINF:0,TVR Craiova
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
-#EXTINF:0,TVR Iasi
-http://82.208.151.107:8088/high/tvriasi/index.m3u8
-#EXTINF:0,TVR Moldova
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
-#EXTINF:0,TVR 1 HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:0,TVR Timisoara
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="RUMÄNIEN",Stars
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1,RO: CINEMAX 2
-http://104.218.60.145:83/Elonge/4049153347@/378288.m3u8
-#EXTINF:-1,RO: DIGI 24 CRAIOVA
-http://104.218.60.145:83/Elonge/4049153347@/378286.m3u8
-#EXTINF:-1,RO: FISHING & HUNTING
-http://104.218.60.145:83/Elonge/4049153347@/378272.m3u8
